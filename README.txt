@@ -1,6 +1,9 @@
 Scripts used to simulate the mathematical models described in the following publication: 
 
 Title: “Coding Region Polyadenylation Generates a Truncated tRNA Synthetase that Counters Translation Repression 
+
+Journal: Cell. 2012 Mar 30;149(1):88-100
+
 Author list: Peng Yao,1 Alka A. Potdar,1,6 Abul Arif,1 Partho Sarothi Ray,1,3 Rupak Mukhopadhyay,1,4 Belinda Willard,2 Yichi Xu,5 Jun Yan,5 Gerald M. Saidel,6,7 and Paul L. Fox1,*
 1Department of Cell Biology
 2Mass Spectrometry Laboratory for Protein Sequencing
